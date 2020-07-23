@@ -65,7 +65,7 @@ h1 {
 h3 {
   width: 600px;
   height: 20px;
-  margin-top: 0px;
+  margin-top: 0;
   font-size: 15px;
   font-weight: 700;
   letter-spacing: 0.3px;
@@ -80,7 +80,7 @@ h3 {
 
 #p-icons2 {
   font-size: 13px;
-  columns: hsl(0, 0%, 20%);
+  color: hsl(0, 0%, 20%);
   font-weight: 500;
 }
 
@@ -91,7 +91,7 @@ ul {
 }
 
 li {
-  margin: 0px 5px;
+  margin: 0 5px;
 }
 
 .fab {
