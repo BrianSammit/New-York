@@ -42,5 +42,12 @@ span {
   color: black;
 }
 
+hr {
+  margin-left: 190px;
+  width: 80px;
+}
+
 #section-3-footer {
+  font-size: 14px;
+  margin-left: 190px;
 }
