@@ -28,9 +28,8 @@
   display: grid;
   grid-template-columns: 235px 235px 235px 235px;
   grid-template-rows: 330px 330px;
-  justify-content: space-between;
   margin-bottom: 80px;
-  grid-gap: 2%;
+  grid-gap: 1%;
 }
 
 .grid-class p {
