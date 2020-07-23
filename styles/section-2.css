@@ -1,0 +1,69 @@
+.section-2 {
+    display: flex;
+    font-size: 20px;
+    flex-wrap: nowrap;
+    justify-content: center;
+    font-family: nyt-imperial,georgia,'times new roman',times,serif;
+    font-weight: 400;
+    ;
+
+}
+
+.main-div {
+    display: flex;
+    justify-self: center;
+    flex-direction: column;
+    width: 600px;
+    margin-left: auto;
+
+}
+.aside {
+    width: 210px;
+    height: 451px;
+    float: right;
+    margin-top: 500px;
+    margin-left: 100px;
+    margin-right: 60px;
+}
+
+.aside h2 {
+    font-size: 14px;
+}
+
+.pic {
+    display: flex;
+    width: 210px;
+    height: 102px;
+}
+.pic1 {
+    display: flex;
+    width: 75px;
+    height: 75px;
+}
+.pic p {
+    justify-content: flex-end;
+    padding: 1px;
+    height: 78px;
+    font-size: 14px;
+    margin: 5px;
+    width: 125px;  
+}
+
+.middle-text {
+    font-weight: bold;
+    font-size: 15px;
+    margin: auto;
+}
+
+.middle-text a {
+    text-decoration: none;
+}
+
+.middle-text p {
+    margin: 0px;
+    text-align: center;
+}
+
+.middle-text hr {
+    width: 60px;
+}
