@@ -1,0 +1,64 @@
+.section-4-div {
+  display: flex;
+  justify-self: center;
+  flex-direction: column;
+  width: 600px;
+  margin: auto;
+}
+
+.section-4 p {
+  font-size: 20px;
+  color: hsl(0, 0%, 20%);
+}
+
+.img-section-4 img {
+  width: 600px;
+  height: 401px;
+}
+
+.section-4-footer {
+  width: 600px;
+  height: 92px;
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  margin-bottom: 80px;
+}
+
+.section-4-footer p {
+  font-size: 12px;
+  color: hsl(0, 0%, 40%);
+}
+
+.section-4-footer a {
+  color: hsl(0, 0%, 40%);
+}
+
+.section-4-footer a:hover {
+  text-decoration: none;
+}
+
+.section-4-footer-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.section-4-btm {
+  width: 330px;
+  height: 36px;
+  background-color: hsl(205, 27%, 46%);
+  border-color: hsl(206, 49%, 38%);
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  font-size: 13px;
+  text-align: center;
+  color: hsl(0, 0%, 100%);
+  cursor: pointer;
+}
+
+h4 {
+  font-size: 20px;
+  color: hsl(0, 0%, 20%);
+}
