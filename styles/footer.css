@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .main-footer {
   width: 1281px;
   height: 437px;
@@ -17,3 +18,19 @@
 .aside-footer-2 {
   float: right;
 }
+=======
+/*.title-main {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: #2196F3;
+    padding: 2px;
+  }
+
+  .title {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 2px;
+    font-size: 16px;
+    text-align: center;
+  }*/
+>>>>>>> c2207047af3324cbf88f9bd90c8e984a4b07dcc1
