@@ -1,21 +1,19 @@
+.main-footer {
+  width: 1281px;
+  height: 437px;
+  margin: auto;
+}
 
- .main-footer-grid {
+.main-footer-grid {
+  margin: auto;
   display: grid;
-  grid-template-columns: auto auto auto auto auto;
-  column-gap: 2px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 370px;
 }
-.title1 ul {
-  grid-row: 1/4;
+
+.title {
 }
-.title2 ul {
-  grid-row: 1/4;
-}
-.title3 ul {
-  grid-row: 1/4;
-}
-.title4 ul {
-  grid-row: 1/4;
-}
-.title5 ul {
-  grid-row: 1/4;
+
+.aside-footer-2 {
+  float: right;
 }
