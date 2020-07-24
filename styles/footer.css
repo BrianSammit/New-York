@@ -1,9 +1,21 @@
-.main-div-3 {
-}
 
-#title-id {
+ .main-footer-grid {
   display: grid;
-  grid-template-columns: 150px 150px 150px 150px 150px;
-  grid-template-rows: 100px;
-  margin-bottom: 80px;
+  grid-template-columns: auto auto auto auto auto;
+  column-gap: 2px;
+}
+.title1 ul {
+  grid-row: 1/4;
+}
+.title2 ul {
+  grid-row: 1/4;
+}
+.title3 ul {
+  grid-row: 1/4;
+}
+.title4 ul {
+  grid-row: 1/4;
+}
+.title5 ul {
+  grid-row: 1/4;
 }
