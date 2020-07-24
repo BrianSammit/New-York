@@ -85,7 +85,7 @@ h3 {
   font-weight: 500;
 }
 
-ul {
+.ul-icons {
   display: flex;
   align-items: center;
   list-style: none;
