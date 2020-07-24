@@ -140,17 +140,21 @@
   height: 55px;
   text-align: center;
   justify-content: center;
-  padding-top: 20px;
   border-top: 1px solid hsl(0, 10%, 78%);
+}
+
+.footer-final p {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .expand {
   display: flex;
-  justify-content: flex-end;
-  margin-right: 500px;
-  
-  
+  flex-direction: row;
+  height: 55px;
+  width: 100px;
 }
-.fas {
-  display: flex;
+
+.expand h5 {
+  
 }
