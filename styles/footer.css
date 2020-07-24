@@ -1,14 +1,17 @@
-/*.title-main {
+.title-main {
     display: grid;
-    grid-template-columns: auto auto auto auto auto;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-areas: "title1" "title2" "title3" "title4" "title5";
     background-color: #2196F3;
     padding: 2px;
   }
 
   .title {
+    display: flex;
+    flex-direction: column;
     background-color: rgba(255, 255, 255, 0.8);
     border: 1px solid rgba(0, 0, 0, 0.8);
     padding: 2px;
     font-size: 16px;
     text-align: center;
-  }*/
+  }
