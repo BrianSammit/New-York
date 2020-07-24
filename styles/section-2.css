@@ -1,5 +1,5 @@
 .section-2 {
-  width: 100%;
+  width: 1349px;
   display: flex;
   font-size: 20px;
   justify-content: center;
@@ -12,17 +12,20 @@
   width: 47%;
   margin-left: 280px;
 }
+
 .aside {
-  width: 16%;
+  width: 210px;
   height: 451px;
   float: left;
-  margin-left: 200px;
+  margin-left: 30px;
   margin-top: 600px;
-
 }
 
 .aside h2 {
   font-size: 14px;
+  margin-left: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
 }
 
 .pic {
@@ -31,6 +34,7 @@
   height: 102px;
   margin-left: 10px;
 }
+
 .pic1 {
   display: flex;
   width: 40%;
@@ -38,6 +42,7 @@
   justify-content: flex-start;
   margin-right: -30px;
 }
+
 .pic p {
   justify-content: flex-end;
   padding: 1px;
@@ -66,10 +71,4 @@
 .middle-text hr {
   width: 80px;
   margin: auto;
-}
-
-.aside h2 {
-  margin-left: 15px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid black;
 }

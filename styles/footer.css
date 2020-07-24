@@ -1,5 +1,5 @@
 .main-footer {
-  width: 1200px;
+  width: 1349px;
   height: 420px;
   margin: auto;
   border-top: 3px double rgb(221, 221, 221);
@@ -39,15 +39,13 @@
   text-transform: uppercase;
   margin: 0 0 10px;
 }
-.ul-footer {
-  margin: 0;
-}
 
 .ul-footer {
   padding: 0;
   flex-basis: 0;
   list-style: none;
   align-items: initial;
+  margin: 0;
 }
 
 .ul-footer li {
@@ -65,6 +63,7 @@
   border-left: 1px solid rgb(221, 221, 221);
   padding-left: 10px;
 }
+
 .aside-footer-2 h5 {
   font-size: 13px;
   color: hsl(0, 0%, 20%);
@@ -100,6 +99,7 @@
   color: black;
   text-decoration: none;
 }
+
 .aside-footer-div {
   margin-bottom: 5px;
 }

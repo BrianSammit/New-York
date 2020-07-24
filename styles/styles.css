@@ -1,12 +1,16 @@
-@import "section-1.css";
-@import "section-2.css";
-@import "section-3.css";
-@import "section-4.css";
-@import "section-5.css";
-@import "footer.css";
+@import 'section-1.css';
+@import 'section-2.css';
+@import 'section-3.css';
+@import 'section-4.css';
+@import 'section-5.css';
+@import 'footer.css';
+
+body {
+  width: 1349px;
+}
 
 nav {
-  width: 100%;
+  width: 1349px;
   height: 42px;
   position: fixed;
   top: 0;
