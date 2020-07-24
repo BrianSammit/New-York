@@ -1,21 +1,14 @@
+/*.title-main {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: #2196F3;
+    padding: 2px;
+  }
 
- .main-footer-grid {
-  display: grid;
-  grid-template-columns: auto auto auto auto auto;
-  column-gap: 2px;
-}
-.title1 ul {
-  grid-row: 1/4;
-}
-.title2 ul {
-  grid-row: 1/4;
-}
-.title3 ul {
-  grid-row: 1/4;
-}
-.title4 ul {
-  grid-row: 1/4;
-}
-.title5 ul {
-  grid-row: 1/4;
-}
+  .title {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 2px;
+    font-size: 16px;
+    text-align: center;
+  }*/
