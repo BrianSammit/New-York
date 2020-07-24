@@ -2,14 +2,13 @@
   width: 1349px;
   display: grid;
   margin: auto;
+  padding: 0;
 }
 
 #section-3-header {
   width: 950px;
   display: flex;
   flex-direction: column;
-  text-align: center;
-  justify-content: center;
   margin-left: 191.5px;
 }
 
@@ -29,6 +28,7 @@
 }
 
 .grid-class {
+  margin: auto;
   display: grid;
   grid-template-columns: 235px 235px 235px 235px;
   grid-template-rows: 330px 330px;

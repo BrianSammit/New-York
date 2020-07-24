@@ -1,11 +1,8 @@
-.section-5 {
-  width: 1349px;
-}
-
-#section-5-div-2 {
+#section-5 {
   width: 1180px;
   height: 1042px;
   margin: auto;
+  padding: 0;
 }
 
 .main-div-2 {
@@ -36,6 +33,10 @@
   font-size: 19px;
   border-top: 1px solid hsl(0, 0%, 80%);
   padding: 10px 0;
+}
+
+.aside-2 h3 {
+  width: 100%;
 }
 
 #section-5-div-2 h3 {

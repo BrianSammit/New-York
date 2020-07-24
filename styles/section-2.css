@@ -3,6 +3,8 @@
   display: flex;
   font-size: 20px;
   justify-content: center;
+  margin: auto;
+  padding: 0;
 }
 
 .main-div {
@@ -61,6 +63,7 @@
 
 .middle-text a {
   text-decoration: none;
+  color: hsl(206, 49%, 38%);
 }
 
 .middle-text p {

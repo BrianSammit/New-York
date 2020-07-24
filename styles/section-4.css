@@ -1,5 +1,7 @@
 .section-4 {
   width: 1349px;
+  margin: auto;
+  padding: 0;
 }
 
 .section-4-div {
@@ -8,6 +10,8 @@
   flex-direction: column;
   width: 600px;
   margin: auto;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .section-4 p {
@@ -15,9 +19,18 @@
   color: hsl(0, 0%, 20%);
 }
 
+.section-4 a {
+  color: hsl(206, 49%, 38%);
+}
+
 .img-section-4 img {
   width: 600px;
   height: 401px;
+}
+
+.section-4-div span {
+  font-size: 15px;
+  color: hsl(0, 0%, 40%);
 }
 
 .section-4-footer {

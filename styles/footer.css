@@ -2,6 +2,7 @@
   width: 1349px;
   height: 420px;
   margin: auto;
+  padding: 0;
   border-top: 3px double rgb(221, 221, 221);
   border-bottom: 1px solid rgb(221, 221, 221);
 }
