@@ -21,6 +21,15 @@
   grid-gap: 6%;
 }
 
+.img-1-5 a {
+  text-decoration: none;
+  color: hsl(0, 3%, 6%);
+}
+
+.img-1-5 a:hover {
+  text-shadow: 2px 2px 4px #aaa1a1;
+}
+
 .aside-2 {
   width: 315px;
   height: 1047px;
