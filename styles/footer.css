@@ -54,6 +54,10 @@
   margin: 0 0 5px;
 }
 
+.ul-footer li:hover {
+  text-decoration: underline;
+}
+
 .ul-footer a {
   font-size: 14px;
   color: black;
@@ -64,6 +68,10 @@
   float: right;
   border-left: 1px solid rgb(221, 221, 221);
   padding-left: 10px;
+}
+
+.aside-footer-2 a:hover {
+  text-decoration: underline;
 }
 
 .aside-footer-2 h5 {
@@ -124,6 +132,10 @@
   text-align: center;
   margin: auto;
   margin-bottom: 55px;
+}
+
+.footer-footer li:hover {
+  text-decoration: underline;
 }
 
 .footer-ul {

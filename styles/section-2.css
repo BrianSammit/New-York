@@ -27,7 +27,7 @@
   font-size: 14px;
   margin-left: 15px;
   padding-bottom: 10px;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid hsl(0, 0%, 89%);
 }
 
 .pic {
@@ -71,7 +71,13 @@
   margin: auto;
 }
 
+.middle-p {
+  padding: 7px;
+}
+
+
 .middle-text hr {
   width: 80px;
   margin: auto;
+  color: hsl(0, 0%, 89%);
 }
