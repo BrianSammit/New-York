@@ -37,6 +37,10 @@
   margin-left: 10px;
 }
 
+.pic p:hover {
+  text-decoration: underline;
+}
+
 .pic1 {
   display: flex;
   width: 40%;
