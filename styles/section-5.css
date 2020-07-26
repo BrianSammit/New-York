@@ -44,6 +44,15 @@
   padding: 10px 0;
 }
 
+.aside-2 h2 a {
+  text-decoration: none;
+  color: hsl(0, 3%, 6%);
+}
+
+.aside-2 h2 a:hover {
+  text-shadow: 2px 2px 4px #beb3b3;
+}
+
 .aside-2 h3 {
   width: 100%;
   padding: 15px 0px;
