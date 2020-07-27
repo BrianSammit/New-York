@@ -2,10 +2,6 @@
 
 >This project consists of building an HTML and CSS document that matches the appearance of the sign in form from intuit webpage. the main objective of this project is to get the knowledge of how positioned the elements for web pages in this case a form for version intuit page.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
-
 ## Built With
 
 - Html,CSS and github technologies
