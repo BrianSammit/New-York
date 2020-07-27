@@ -11,8 +11,12 @@
 .title {
   width: 100%;
   height: 96px;
-  margin-top: 75px;
+  margin-top: 105px;
+  margin-bottom: 20px;
   align-self: center;
+  font-style: italic;
+  font-weight: 250;
+  font-family: nyt-cheltenham;
 }
 
 h1 {
