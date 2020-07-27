@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/BrianSammit/New-York/b0b10ddc1930a31d4d0dd5f214ea0988d0527df2/index.html)
+[Live Demo Link](https://rawcdn.githack.com/BrianSammit/New-York/c937a9d58660d1adfa8d9ea18913117d17051702/index.html)
 
 
 ## Getting Started
