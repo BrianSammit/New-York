@@ -37,6 +37,21 @@
   margin-left: 10px;
 }
 
+.pic p {
+  justify-content: flex-end;
+  padding: 1px;
+  height: 78px;
+  font-size: 12px;
+  width: 45%;
+  margin: 2px 2px 2px 2px;
+  margin-left: 35px;
+}
+
+.middle-text p {
+  text-align: center;
+  margin: auto;
+}
+
 .pic p:hover {
   text-decoration: underline;
 }
@@ -47,16 +62,6 @@
   height: 75px;
   justify-content: flex-start;
   margin-right: -30px;
-}
-
-.pic p {
-  justify-content: flex-end;
-  padding: 1px;
-  height: 78px;
-  font-size: 12px;
-  width: 45%;
-  margin: 2px 2px 2px 2px;
-  margin-left: 35px;
 }
 
 .middle-text {
@@ -70,15 +75,9 @@
   color: hsl(206, 49%, 38%);
 }
 
-.middle-text p {
-  text-align: center;
-  margin: auto;
-}
-
 .middle-p {
   padding: 7px;
 }
-
 
 .middle-text hr {
   width: 80px;

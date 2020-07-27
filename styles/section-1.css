@@ -1,4 +1,4 @@
-#section-1 {
+.section-1 {
   margin: auto;
   padding: 0;
   width: 1349px;
@@ -8,7 +8,7 @@
   justify-content: center;
 }
 
-#title {
+.title {
   width: 100%;
   height: 96px;
   margin-top: 40px;
@@ -22,12 +22,12 @@ h1 {
   margin: 0 374.5px;
 }
 
-#img {
+.img {
   width: 945px;
   height: 600px;
 }
 
-#img-section-1 {
+.img-section-1 {
   width: 100%;
   height: 600px;
   display: flex;
@@ -35,12 +35,12 @@ h1 {
   justify-content: center;
 }
 
-#section-1-img {
+.section-1-img {
   width: 100%;
   height: 532px;
 }
 
-#texts-section-1-img {
+.texts-section-1-img {
   width: 720px;
   height: 58px;
   margin-top: 5px;
@@ -49,7 +49,7 @@ h1 {
   line-height: 20px;
 }
 
-#footer-section {
+.footer-section {
   width: 100%;
   height: 60px;
   display: flex;
@@ -57,7 +57,7 @@ h1 {
   justify-content: center;
 }
 
-#footer-section-1 {
+.footer-section-1 {
   width: 600px;
   height: 70px;
   display: block;
@@ -80,7 +80,7 @@ h3 {
   justify-content: space-between;
 }
 
-#p-icons2 {
+.p-icons2 {
   font-size: 13px;
   color: hsl(0, 0%, 20%);
   font-weight: 500;

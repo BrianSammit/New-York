@@ -5,14 +5,14 @@
   padding: 0;
 }
 
-#section-3-header {
+.section-3-header {
   width: 950px;
   display: flex;
   flex-direction: column;
   margin-left: 191.5px;
 }
 
-#section-3-header h2 {
+.section-3-header h2 {
   font-size: 20px;
   margin-bottom: 0;
 }
@@ -21,7 +21,7 @@
   font-size: 15px;
 }
 
-#section-3-header p {
+.section-3-header p {
   margin-top: 0;
   font-size: 15px;
   color: hsl(0, 0%, 60%);
@@ -47,7 +47,7 @@ hr {
   width: 80px;
 }
 
-#section-3-footer {
+.section-3-footer {
   font-size: 14px;
   margin-left: 190px;
 }

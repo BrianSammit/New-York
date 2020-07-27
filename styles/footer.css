@@ -1,6 +1,6 @@
 .main-footer {
   width: 1349px;
-  height: 420px;
+  height: 520px;
   margin: auto;
   padding: 0;
   border-top: 3px double rgb(221, 221, 221);
@@ -9,14 +9,14 @@
 
 .main-footer-grid {
   width: 1200px;
-  height: 370px;
+  height: 400px;
   margin: auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: 370px;
 }
 
-#header-footer {
+.header-footer {
   margin-left: 60px;
   width: 1200px;
   display: flex;
@@ -29,7 +29,7 @@
   margin: 10px 0;
 }
 
-#logo-2-p {
+.logo-2-p {
   font-size: 11px;
   color: hsl(205, 27%, 46%);
   cursor: pointer;
@@ -47,11 +47,20 @@
   flex-basis: 0;
   list-style: none;
   align-items: initial;
-  margin: 0;
+  margin: auto;
 }
 
 .ul-footer li {
   margin: 0 0 5px;
+}
+
+.footer-ul li {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  font-size: 11px;
+  color: hsl(0, 0%, 40%);
+  margin: 0 20px 0 5px;
 }
 
 .ul-footer li:hover {
@@ -68,6 +77,12 @@
   float: right;
   border-left: 1px solid rgb(221, 221, 221);
   padding-left: 10px;
+}
+
+.aside-footer-div a {
+  font-size: 11px;
+  color: black;
+  text-decoration: none;
 }
 
 .aside-footer-2 a:hover {
@@ -108,12 +123,6 @@
   margin-bottom: 10px;
 }
 
-.aside-footer-div a {
-  font-size: 11px;
-  color: black;
-  text-decoration: none;
-}
-
 .aside-footer-div {
   margin-bottom: 5px;
 }
@@ -140,15 +149,6 @@
 
 .footer-ul {
   display: flex;
-}
-
-.footer-ul li {
-  display: flex;
-  flex-direction: row;
-  text-decoration: none;
-  font-size: 11px;
-  color: hsl(0, 0%, 40%);
-  margin: 0 20px 0 5px;
 }
 
 .footer-final {

@@ -16,7 +16,8 @@ nav {
   position: fixed;
   top: 0;
   display: flex;
-  align-items: flex-start;
+  align-items: center;
+  justify-items: center;
   background-color: hsl(0, 0%, 100%);
   border-bottom: 1px solid #e2e2e2;
 }
@@ -25,12 +26,23 @@ nav {
   width: 10px;
   height: 10px;
   margin: 15px;
+  margin-bottom: 30px;
+  cursor: pointer;
+}
+
+.space-div {
+  width: 300px;
+  margin: 15px;
+  font-size: 14.25px;
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
 }
 
 .logo {
   width: 195px;
   height: 26px;
-  margin: 10px 350px 0 500px;
+  margin: 15px 350px;
 }
 
 .button {
@@ -49,6 +61,7 @@ nav {
   text-align: center;
   text-transform: uppercase;
   margin: 5px;
+  cursor: pointer;
 }
 
 .button2 {
@@ -67,4 +80,5 @@ nav {
   text-align: center;
   text-transform: uppercase;
   margin: 5px;
+  cursor: pointer;
 }
