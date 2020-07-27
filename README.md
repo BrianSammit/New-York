@@ -1,38 +1,16 @@
 # New-York-Times page
 
->This project consists of building an HTML and CSS document that matches the appearance of the sign in form from intuit webpage. the main objective of this project is to get the knowledge of how positioned the elements for web pages in this case a form for version intuit page.
+This project consists of building an HTML and CSS document that matches the appearance of the newyork times Big Bang’s Smoking Gun webpage. the main objective of this project is to get the knowledge of how to position and float elements on a web page.
 
 ## Built With
 
-- Html,CSS and github technologies
--  used:flex-box, float and grid of CSS
-- technologies used
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML),
+- [CSS](https://www.w3schools.com/css/),
+- [Fontawesome](https://fontawesome.com/)
 
 ## Live Demo
 
 [Live Demo Link](https://rawcdn.githack.com/BrianSammit/New-York/c937a9d58660d1adfa8d9ea18913117d17051702/index.html)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
 
 
 ## Authors
@@ -49,15 +27,11 @@ Linkedin: https://www.linkedin.com/in/brian-sammit-cruz-rodriguez-5877551a8/
 
 Github: https://github.com/ositaadimma
 
-Twitter: 
-
-Linkedin: 
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
 
 ## Show your support
 
@@ -65,10 +39,13 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+- W3schools
+- Freecodecamp
+- Developer.mozilla
+- Learnshayhowe
+- Odin project
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+NO licese: This project is free for anyone to use.
