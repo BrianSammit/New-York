@@ -1,3 +1,4 @@
+
 # New-York-Times page
 
 This project consists of building an HTML and CSS document that matches the appearance of the newyork times Big Bang’s Smoking Gun webpage. the main objective of this project is to get the knowledge of how to position and float elements on a web page.
@@ -48,3 +49,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 NO licese: This project is free for anyone to use.
+
