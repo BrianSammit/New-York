@@ -2,6 +2,8 @@
 
 This project consists of building an HTML and CSS document that matches the appearance of the newyork times Big Bang’s Smoking Gun webpage. the main objective of this project is to get the knowledge of how to position and float elements on a web page.
 
+![screenshot](./screenshot.png)
+
 ## Built With
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML),
@@ -11,7 +13,6 @@ This project consists of building an HTML and CSS document that matches the appe
 ## Live Demo
 
 [Live Demo Link](https://rawcdn.githack.com/BrianSammit/New-York/c937a9d58660d1adfa8d9ea18913117d17051702/index.html)
-
 
 ## Authors
 
@@ -27,11 +28,9 @@ Linkedin: https://www.linkedin.com/in/brian-sammit-cruz-rodriguez-5877551a8/
 
 Github: https://github.com/ositaadimma
 
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
-
 
 ## Show your support
 
