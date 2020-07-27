@@ -1,0 +1,86 @@
+.section-2 {
+  width: 1349px;
+  display: flex;
+  font-size: 20px;
+  justify-content: center;
+  margin: auto;
+  padding: 0;
+}
+
+.main-div {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 47%;
+  margin-left: 280px;
+}
+
+.aside {
+  width: 210px;
+  height: 451px;
+  float: left;
+  margin-left: 30px;
+  margin-top: 600px;
+}
+
+.aside h2 {
+  font-size: 14px;
+  margin-left: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid hsl(0, 0%, 89%);
+}
+
+.pic {
+  display: flex;
+  width: 100%;
+  height: 102px;
+  margin-left: 10px;
+}
+
+.pic p {
+  justify-content: flex-end;
+  padding: 1px;
+  height: 78px;
+  font-size: 12px;
+  width: 45%;
+  margin: 2px 2px 2px 2px;
+  margin-left: 35px;
+}
+
+.middle-text p {
+  text-align: center;
+  margin: auto;
+}
+
+.pic p:hover {
+  text-decoration: underline;
+}
+
+.pic1 {
+  display: flex;
+  width: 40%;
+  height: 75px;
+  justify-content: flex-start;
+  margin-right: -30px;
+}
+
+.middle-text {
+  font-weight: bold;
+  font-size: 15px;
+  margin: auto;
+}
+
+.middle-text a {
+  text-decoration: none;
+  color: hsl(206, 49%, 38%);
+}
+
+.middle-p {
+  padding: 7px;
+}
+
+.middle-text hr {
+  width: 80px;
+  margin: auto;
+  color: hsl(0, 0%, 89%);
+}
