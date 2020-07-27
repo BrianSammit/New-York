@@ -33,6 +33,13 @@
   color: hsl(0, 3%, 6%);
 }
 
+.aside-2 h2 {
+  color: hsl(0, 0%, 20%);
+  font-size: 19px;
+  border-top: 1px solid hsl(0, 0%, 80%);
+  padding: 10px 0;
+}
+
 .img-1-5 a:hover {
   color: rgb(90, 90, 90);
 }
@@ -42,13 +49,6 @@
   height: 1047px;
   float: right;
   border-top: 1px solid black;
-}
-
-.aside-2 h2 {
-  color: hsl(0, 0%, 20%);
-  font-size: 19px;
-  border-top: 1px solid hsl(0, 0%, 80%);
-  padding: 10px 0;
 }
 
 .aside-2 h2 a:hover {

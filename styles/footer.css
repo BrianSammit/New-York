@@ -85,6 +85,10 @@
   text-decoration: none;
 }
 
+.aside-footer-div {
+  margin-bottom: 5px;
+}
+
 .aside-footer-2 a:hover {
   text-decoration: underline;
 }
@@ -121,10 +125,6 @@
 
 .icons-footer-div {
   margin-bottom: 10px;
-}
-
-.aside-footer-div {
-  margin-bottom: 5px;
 }
 
 .education {
