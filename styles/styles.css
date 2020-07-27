@@ -18,6 +18,7 @@ nav {
   display: flex;
   background-color: hsl(0, 0%, 100%);
   border-bottom: 1px solid #e2e2e2;
+  justify-content: center;
 }
 
 .icon {
@@ -36,6 +37,10 @@ nav {
   text-decoration: none;
   color: black;
   font-weight: bolder;
+}
+
+.space-div:hover {
+  text-decoration: underline;
 }
 
 .logo {
