@@ -11,13 +11,11 @@ body {
 }
 
 nav {
-  width: 1349px;
+  width: 100%;
   height: 42px;
   position: fixed;
   top: 0;
   display: flex;
-  align-items: center;
-  justify-items: center;
   background-color: hsl(0, 0%, 100%);
   border-bottom: 1px solid #e2e2e2;
 }
@@ -25,14 +23,15 @@ nav {
 .icon {
   width: 10px;
   height: 10px;
-  margin: 15px;
+  margin: 13px 15px;
   margin-bottom: 30px;
   cursor: pointer;
 }
 
 .space-div {
-  width: 300px;
-  margin: 15px;
+  display: flex;
+  width: 130px;
+  margin: 15px 15px;
   font-size: 14.25px;
   text-decoration: none;
   color: black;
